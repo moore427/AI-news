@@ -1,0 +1,5 @@
+{
+  "name": "FinPulse AI - 專業金融終端",
+  "description": "高效能金融情報終端，整合即時市場數據、AI 情緒分析及多來源新聞匯流，由 Gemini 3 Flash 提供核心動力。",
+  "requestFramePermissions": []
+}
